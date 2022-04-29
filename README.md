@@ -14,3 +14,5 @@ Para o experimento, vc deverá preparar diversos vetores para a busca que provoq
 * Os relatórios de implementação (discutindo abordagens, dificuldades, etc);
 * Os relatórios de execução (prints das telas, em PDF);
 * Pelo menos 5 vetores utilizados nos experimentos de busca.
+
+Caso a atividade de Busca de um elemento em um vetor não tenha sido implementada na turma, desconsidere o que se refere a ela, tanto nos experimentos como na entrega.
