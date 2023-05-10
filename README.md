@@ -6,13 +6,12 @@ Também vamos fazer alguns experimentos com o algoritmo de Busca de um elemento 
 
 Para as implementações, vc deve estudar os códigos seriais fornecidos e depois então projetar o seu algoritmo paralelo.
 
-Para o experimento, vc deverá preparar diversos vetores para a busca que provoquem uma situação em que o tempo paralelo seja maior do que o tempo serial.
+Ao realizar o experimento, atente para situações em que o tempo paralelo seja maior que o tempo serial; caso ocorra, forneça uma explicação satisfatória.
 
 ## O que submeter:
 
-* Os códigos paralelos implementados em OpenMP;
+* Os códigos paralelos implementados de acordo com a tecnologia indicada pelo professor (OpenMP e/ou OpenACC);
 * Os relatórios de implementação (discutindo abordagens, dificuldades, etc);
 * Os relatórios de execução (prints das telas, em PDF);
-* Pelo menos 5 vetores utilizados nos experimentos de busca.
+* Pelo menos 5 vetores utilizados nos experimentos de busca; os vetores devem ter tamanhos grandes, sempre maiores que 1M de elementos únicos.
 
-Caso a atividade de Busca de um elemento em um vetor não tenha sido implementada na turma, desconsidere o que se refere a ela, tanto nos experimentos como na entrega.
