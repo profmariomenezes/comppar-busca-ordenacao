@@ -2,7 +2,7 @@
 
 Nesta atividade vamos implementar as versões paralelas de dois algoritmos de ordenação: Ordenação por Seleção e o MergeSort.
 
-Também vamos fazer alguns experimentos com o algoritmo de Busca de um elemento em um vetor, já implementado em uma atividade anterior.
+[OPCIONAL, Não considerar] ~~Também vamos fazer alguns experimentos com o algoritmo de Busca de um elemento em um vetor, já implementado em uma atividade anterior~~.
 
 Para as implementações, vc deve estudar os códigos seriais fornecidos e depois então projetar o seu algoritmo paralelo.
 
