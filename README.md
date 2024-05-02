@@ -10,7 +10,7 @@ Ao realizar o experimento, atente para situações em que o tempo paralelo seja 
 
 ## O que submeter:
 
-* Os códigos paralelos implementados de acordo com a(s) tecnologia(s) indicada(s) pelo professor (OpenMP, CUDA e/ou OpenACC);
+* Os códigos paralelos implementados de acordo com a(s) tecnologia(s) indicada(s) pelo professor (**OpenMP**, ~~CUDA e/ou OpenACC~~);
 * Os relatórios de implementação (discutindo abordagens, dificuldades, contribuição de cada componente do grupo, etc);
 * Os relatórios de execução (prints das telas, em PDF);
 * Pelo menos 5 vetores utilizados nos experimentos de busca; os vetores devem ter tamanhos grandes, sempre maiores que 1M de elementos únicos.
